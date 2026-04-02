@@ -1,0 +1,40 @@
+2026-04-02 21:34:45 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:34:45 [main] INFO  Log - Launching Chrome1 Browser
+2026-04-02 21:35:16 [main] INFO  Log - Entered Selenium in Google Search Box
+2026-04-02 21:35:16 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:35:19 [main] INFO  Log - Test Case Passed is googleTest1
+2026-04-02 21:35:26 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:35:26 [main] INFO  Log - Launching Chrome2 Browser
+2026-04-02 21:35:34 [main] INFO  Log - 2 Entered Selenium in Google Search Box
+2026-04-02 21:35:39 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:35:39 [main] INFO  Log - Test Case Passed is googleTest2
+2026-04-02 21:41:45 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:41:45 [main] INFO  Log - Launching Chrome1 Browser
+2026-04-02 21:41:58 [main] INFO  Log - Entered Selenium in Google Search Box
+2026-04-02 21:42:01 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:42:01 [main] INFO  Log - Test Case Passed is googleTest1
+2026-04-02 21:42:03 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:42:03 [main] INFO  Log - Launching Chrome2 Browser
+2026-04-02 21:42:09 [main] INFO  Log - 2 Entered Selenium in Google Search Box
+2026-04-02 21:42:12 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:42:13 [main] INFO  Log - Test Case Passed is googleTest2
+2026-04-02 21:43:16 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:43:16 [main] INFO  Log - Launching Chrome1 Browser
+2026-04-02 21:43:37 [main] INFO  Log - Entered Selenium in Google Search Box
+2026-04-02 21:43:44 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:43:45 [main] INFO  Log - Test Case Passed is googleTest1
+2026-04-02 21:44:03 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:44:03 [main] INFO  Log - Launching Chrome2 Browser
+2026-04-02 21:44:09 [main] INFO  Log - 2 Entered Selenium in Google Search Box
+2026-04-02 21:44:12 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:44:12 [main] INFO  Log - Test Case Passed is googleTest2
+2026-04-02 21:59:20 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:59:20 [main] INFO  Log - Launching Chrome1 Browser
+2026-04-02 21:59:24 [main] INFO  Log - Entered Selenium in Google Search Box
+2026-04-02 21:59:27 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:59:27 [main] INFO  Log - Test Case Passed is googleTest1
+2026-04-02 21:59:29 [main] INFO  Log - Google Test Case Started
+2026-04-02 21:59:29 [main] INFO  Log - Launching Chrome2 Browser
+2026-04-02 21:59:32 [main] INFO  Log - 2 Entered Selenium in Google Search Box
+2026-04-02 21:59:34 [main] INFO  Log - Google Test Case 1 Completed
+2026-04-02 21:59:35 [main] INFO  Log - Test Case Passed is googleTest2

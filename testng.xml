@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+<!--    <test name= "GET API TEST" verbose="2" preserve-order="true" parallel="methods" thread-count="2">
+        <classes>
+            <class name="com.testautomation.apitesting.tests.GetAPIRequest"/>
+        </classes>
+    </test>-->
+   <!-- <test name="POST API TEST" verbose="2" preserve-order="true" parallel="methods" thread-count="2">
+        <classes>
+            <class name="com.testautomation.apitesting.tests.PostAPIRequest"/>
+        </classes>
+    </test> -->
+    <test name="Google Test">
+        <classes>
+            <class name="com.testautomation.apitesting.tests.GoogleTest"/>
+        </classes>
+    </test>
+</suite>
