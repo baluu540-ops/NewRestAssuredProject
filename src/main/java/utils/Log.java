@@ -18,5 +18,5 @@ public class Log {
     public static void debug(String message){
         logger.debug(message);
     }
-
+//test
 }
